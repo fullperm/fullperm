@@ -1,4 +1,4 @@
-### Hello Avatar ! 👋
+### Hello Avatar 👋
 
 <!--
 **fullperm/fullperm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
